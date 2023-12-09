@@ -1,0 +1,181 @@
+body {
+   padding: 0;
+   margin: 0;
+   font-family: 'Concert One', cursive; 
+   background-color: black            
+}
+.myName {
+   color: white;
+   margin-top: 10rem;
+   font-size: 3rem;
+   letter-spacing: 0.5rem;
+}
+.img-logo {
+   margin-top: 3rem;
+}
+.nav-menu {
+   color:white;
+   text-decoration: none;
+}
+.nav-menu:hover {
+   color: greenyellow;
+}
+.link {
+   display:flex;
+   flex-direction: row;
+   justify-content: space-between;
+   margin-top: 5rem;
+   font-size: 2rem;
+}
+.introduce {
+   color: white;
+   font-size: 2rem;
+   margin-top: 3rem;
+}
+.continue {
+   color: white;
+   margin-top: 3rem;
+   margin-bottom: 4rem;
+   font-size: 2rem;
+   text-decoration: none;
+   
+}
+.continue:hover {
+   color: greenyellow;
+   cursor:pointer;
+}
+
+.active {
+   color: greenyellow;
+}
+.about-me {
+   color: white;
+   margin-top: 10rem;
+   font-size: 60px;
+}
+.welcome {
+   color: white;
+   margin-top: 2rem;
+   font-size: 40px;
+}
+.box-design {
+   display:flex;
+   flex-direction: row;
+   margin-top: 2rem;
+}
+.circle-design {
+   width: 30px;
+   height: 30px;
+   border: 3px solid white;
+   border-radius: 59%;
+   margin-top: 0.6rem;
+}
+.design {
+   color:white;
+   position: relative;
+   left: 15px;
+   font-size: 30px;
+}
+.content-design {
+   color: white;
+   font-size: 1.5rem;
+}
+.design-size , .code , .lang {
+   width: 400px;
+   height: 400px;
+   margin-top: 1rem;
+}
+.group-img {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   margin-bottom: 2rem;
+}
+.circle-design-2 {
+   width: 30px;
+   height: 30px;
+   border: 3px solid white;
+   border-radius: 59%;
+   margin-top: 0.6rem;
+}
+
+.arrow {
+   margin-top: 2rem;
+}
+.git-box {
+   display: flex;
+   align-items: center;
+}
+.git-link {
+   width: 220px;
+   height: 49px;
+   border-radius: 45px;
+   background-color: #D9D9D9;
+   color: black;
+   font-size: 30px;
+   text-align: center;
+   margin-top: 20px;
+   margin-left: 15px;
+}
+.circle-design-3 {
+   width: 30px;
+   height: 30px;
+   border: 3px solid white;
+   border-radius: 59%;
+   margin-top: 0.6rem;
+}
+.group-html5 {
+   display: flex;
+   align-items: center;
+   
+}
+.html-img {
+   width: 100px;
+   height: 100px;
+   margin-top: 2rem;
+}
+.text-html5 {
+   color: white;
+   margin-top: 2rem;
+}
+.css-img {
+   width: 60px;
+   height: 100px;
+   margin-top: 2rem;
+}
+.group-css {
+   display: flex;
+   align-items: center;
+   margin-left: 1rem;
+}
+.js-img {
+   width: 150px;
+   height: 90px;
+   margin-top: 2.5rem;
+}
+.group-js {
+   display: flex;
+   align-items: center;
+   margin-left:-1.8rem;
+}
+.text-js {
+   margin-left: -1.5rem;
+   color: white;
+   margin-top: 2rem;
+}
+.php-img {
+   width: 100px;
+   height: 100px;
+   margin-top: 2.5rem;
+   margin-bottom: 2rem;
+}
+.group-php {
+   display: flex;
+   align-items: center;
+}
+.text-php {
+   margin-left: 0.5rem;
+   color: white;
+   margin-top: 2rem;
+
+}
